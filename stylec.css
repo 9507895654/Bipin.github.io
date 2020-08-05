@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #5f27cd;
+}
+.upload{
+    background-color:#0abde3 ;
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+input{
+    width: 80%;
+    height: 100px;
+    /* font-size: 20px; */
+}
+input ,#cname{
+    font-size: 80px;
+    background: #000;
+}
+input ,#title{
+    font-size: 80px;
+    background: #000;
+
+}
+input ,#file{
+    font-size: 20px;
+    color: #fff;
+}
+
+button{
+    padding: 20px;
+    width: 60%;
+    font-size: 30px;
+}
+ .upload #file{
+    width: 80%;
+}

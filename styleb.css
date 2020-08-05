@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    padding-left: 0px;
+}
+nav{
+    background-color: rgb(4, 228, 4);
+    height:  0 auto;
+   
+   
+    
+}
+.main{
+   
+    display: flex;
+    background-color: coral;
+    width: 100%;
+    height: 100px;
+    margin-left: 0px;
+    /* position:absolute; */
+    
+    
+    
+}
+.logo{
+    margin-left: 30px;
+    color: white;
+    text-transform: uppercase;
+    line-height: 80px;
+    width: 20%;
+    font-family: cursive;
+}
+.search{
+    margin-left: 100px;
+    width: 400px;
+    line-height: 90px;
+}
+input{
+    width: 100%;
+    height: 40px;
+    border-right: none;
+}
+.fa{
+    font-size: 36px;
+  
+     color: rgb(255, 0, 0);
+    margin-top: 25px;
+    background-color:white;
+    border:2px solid black;
+    border-left: none;
+}
+.fa-upload{
+    font-size: 50px;
+    color: blue;
+    margin-left: 70px;
+    background-color: transparent;
+    border: none;
+}
+.p{
+    margin-left: 150px;
+    line-height: 80px;
+}
+.p p{
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.row{
+    width: auto;
+}
+ .card_body h3{
+    width: 300px;
+}
+.card{
+    width: 300px;
+    height: auto;
+}
+.dd{
+    position: relative;
+    display: inline-flex;
+    margin: 10px;
+    top: 20px;
+    
+
+}
+video{
+    margin-top: -70px;
+}
+.dd h3{
+    background-color: blue;
+    color: white;
+}
+.dd h4{
+    margin-top: -90px;
+    height: 50px;
+    background-color: tomato;
+    color: white;
+    font-family: cursive;
+    overflow-y: scroll;
+}
